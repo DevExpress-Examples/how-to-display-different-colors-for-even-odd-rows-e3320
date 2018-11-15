@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SLGridExample/MainPage.xaml) (VB: [MainPage.xaml](./VB/SLGridExample/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SLGridExample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SLGridExample/MainPage.xaml))
+* [PersonsDataSource.cs](./CS/SLGridExample/PersonsDataSource.cs) (VB: [PersonsDataSource.vb](./VB/SLGridExample/PersonsDataSource.vb))
+* [SelectionStateToVisibilityConverter.cs](./CS/SLGridExample/SelectionStateToVisibilityConverter.cs) (VB: [SelectionStateToVisibilityConverter.vb](./VB/SLGridExample/SelectionStateToVisibilityConverter.vb))
+<!-- default file list end -->
 # How to display different colors for even/odd rows
 
 
